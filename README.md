@@ -1,35 +1,23 @@
 # WhatsApp Baileys
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/z4phdev/client/refs/heads/main/thumbnail.png" alt="Thumbnail" />
+  <img src="https://raw.githubusercontent.com/IkyyExecutive/IkyyBokep/main/uploads/1770205734777_31697_1770205733762_file_821.jpg" alt="Thumbnail" />
 </p>
 
-WhatsApp Baileys is an open-source library designed to help developers build automation solutions and integrations with WhatsApp efficiently and directly. Using websocket technology without the need for a browser, this library supports a wide range of features such as message management, chat handling, group administration, as well as interactive messages and action buttons for a more dynamic user experience.
 
-Actively developed and maintained, baileys continuously receives updates to enhance stability and performance. One of the main focuses is to improve the pairing and authentication processes to be more stable and secure. Pairing features can be customized with your own codes, making the process more reliable and less prone to interruptions.
+The latest updated Baileys WhatsApp supports following channels, and doesn't exit easily when using WhatsApp or Telegram bots. This Baileys is equipped with the latest buttons and has updated the jid to lid, suitable for those of you who have a project. Please use this Baileys. 
 
-This library is highly suitable for building business bots, chat automation systems, customer service solutions, and various other communication automation applications that require high stability and comprehensive features. With a lightweight and modular design, baileys is easy to integrate into different systems and platforms.
-
----
-
-### Main Features and Advantages
-
-- Supports automatic and custom pairing processes
-- Fixes previous pairing issues that often caused failures or disconnections
-- Supports interactive messages, action buttons, and dynamic menus
-- Efficient automatic session management for reliable operation
-- Compatible with the latest multi-device features from WhatsApp
-- Lightweight, stable, and easy to integrate into various systems
-- Suitable for developing bots, automation, and complete communication solutions
-- Comprehensive documentation and example codes to facilitate development
+WhatsApp Baileys updates the jid to lid, payment/interactiveMessage/viewOnceMessage buttons and others, suitable for those of you who have a script project that you want 
 
 ---
 
-## Getting Started
+### Features improved by the owner
 
-Begin by installing the library via your preferred package manager, then follow the provided configuration guide. You can also utilize the ready-made example codes to understand how the features work. Use session storage and interactive messaging features to build complete, stable solutions tailored to your business or project needs.
-
----
+- Already supports custom pairing code 
+- Fixing damage to Pairing 
+- Supports Paymess, Interactive, and button
+- Support button in WhatsApp business  
+- And this feature is complete 
 
 ## Add Function ( Simple code )
 
@@ -422,7 +410,7 @@ For complete documentation, installation guides, and implementation examples, pl
 ---
 
 
-### Contact Developer
+### Contact the Original Owner
 
 For questions, support, or collaboration, feel free to contact the developer:
 
@@ -450,10 +438,10 @@ Thanks to the following awesome contributors who help improve this project 💖
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/RexxHayanasi">
-        <img src="https://github.com/RexxHayanasi.png" width="80px;" style="border-radius:50%;" alt="Contributor"/>
+      <a href="https://github.com/Nted3xec">
+        <img src="https://raw.githubusercontent.com/IkyyExecutive/IkyyBokep/main/uploads/1770205734777_31697_1770205733762_file_821.jpg" width="80px;" style="border-radius:50%;" alt="Contributor"/>
         <br />
-        <sub><b>RexxHayanasi</b></sub>
+        <sub><b>Nted3xec</b></sub>
       </a>
     </td>
   </tr>
